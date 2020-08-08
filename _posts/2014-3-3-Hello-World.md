@@ -18,6 +18,7 @@ The same need exists in software development. Version controlling systems like "
 #### git
 
 ![Untitled.png]({{site.baseurl}}/_posts/Untitled.png)
+![drive]({{site.baseurl}}/https://drive.google.com/file/d/1XqaO7MiCsXUbLO7RhANAHzt1Ei-8vvVF/view?usp=sharing)
 
 
 Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
@@ -45,8 +46,3 @@ Subversion is an open source version control system. Founded in 2000 by CollabNe
 ![bit.png]({{site.baseurl}}/_posts/bit.png)
 
 Bitbucket supports distributed version control and makes it easy for you to collaborate on code with your team. Beyond supporting Git and Mercurial version control, Bitbucket gives teams one place to plan projects, code, test and deploy.
-
-
-
-
-
