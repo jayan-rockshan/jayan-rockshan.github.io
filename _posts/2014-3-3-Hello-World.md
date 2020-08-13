@@ -17,7 +17,8 @@ The same need exists in software development. Version controlling systems like "
 
 #### git
 
-![xx.jpg]({{site.baseurl}}/_posts/xx.jpg)
+![Untitled.png]({{site.baseurl}}/_posts/xx.jpg)
+
 
 Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 
