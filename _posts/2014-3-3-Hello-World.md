@@ -26,24 +26,24 @@ Git is a distributed version-control system for tracking changes in source code 
 
 #### github
 
-![download.png]({{site.baseurl}}/_posts/download.png)
+![hub.png](https://raw.githubusercontent.com/jayan-rockshan/jayan-rockshan.github.io/master/images/hub.png)
 
 GitHub is at heart a Git repository hosting service, i.e. a cloud-based source code management or version control system, but that's just the beginning. ... GitHub makes it easy to find useful code, copy repositories for your own use, and submit changes to others' projects.
 
 #### Azure devops
 
-![azure.png]({{site.baseurl}}/_posts/azure.png)
+![azure.png](https://raw.githubusercontent.com/jayan-rockshan/jayan-rockshan.github.io/master/images/azure.png)
 
 Azure DevOps Services and TFS provide two models of version control: Git, which is distributed version control, and Team Foundation Version Control (TFVC), which is centralized version control.
 
 #### Apache Subversion
 
-![sub.png]({{site.baseurl}}/_posts/sub.png)
+![sub.png](https://raw.githubusercontent.com/jayan-rockshan/jayan-rockshan.github.io/master/images/sub.png)
 
 Subversion is an open source version control system. Founded in 2000 by CollabNet, Inc., the Subversion project and software have seen incredible success over the past decade. ... Subversion is developed as a project of the Apache Software Foundation, and as such is part of a rich community of developers and users.
 
 #### Bitbucket
 
-![bit.png]({{site.baseurl}}/_posts/bit.png)
+![bit.png](https://raw.githubusercontent.com/jayan-rockshan/jayan-rockshan.github.io/master/images/bit.png)
 
 Bitbucket supports distributed version control and makes it easy for you to collaborate on code with your team. Beyond supporting Git and Mercurial version control, Bitbucket gives teams one place to plan projects, code, test and deploy.
