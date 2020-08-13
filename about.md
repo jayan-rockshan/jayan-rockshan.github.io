@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I hope it helped & thanks for watching my blog !
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Dreamer and student also from Sri Lanka, I did this just to fun and if i wrong please correct me.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jeisonrockexx@gmail.com](mailto:jeisonrockexx@gmail.com)
