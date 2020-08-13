@@ -3,6 +3,7 @@ layout: post
 title: Version controlling systems.
 published: true
 ---
+
 ## What are version controlling systems...
 **Version control systems** are a category of software tools that help a software team,
 - to track the changes done to the document since the beginning, 
@@ -17,7 +18,8 @@ The same need exists in software development. Version controlling systems like "
 
 #### git
 
-![Untitled.png]({{site.baseurl}}/_posts/xx.jpg)
+
+![nat.jpeg](https://raw.githubusercontent.com/jayan-rockshan/jayan-rockshan.github.io/master/images/Untitled.png)
 
 
 Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
